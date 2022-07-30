@@ -12,4 +12,3 @@
 9. UCB1 and MCTS
 10. MCTS
 11. And/OR tree search
-12. 
